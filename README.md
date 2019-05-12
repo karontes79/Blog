@@ -1,2 +1,0 @@
-# Blog
-Karontes'Blog
