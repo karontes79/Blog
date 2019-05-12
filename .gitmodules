@@ -1,0 +1,4 @@
+[submodule "KBlog/public"]
+	path = KBlog/public
+	url = git@github.com:karontes79/karontes79.github.io.git
+	branch = master
